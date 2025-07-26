@@ -1,4 +1,3 @@
 # first---demo
-this is my first Git Repository
-ishik choudhary
-abhii
+this is my first Git Repositor
+complete
